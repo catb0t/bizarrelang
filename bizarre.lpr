@@ -1,5 +1,12 @@
 {
-
+http://code.google.com/p/bizarrelang/
+http://bizarrescriptinglanguage.blogspot.com/
+Bizarre is a easy and fast programming language written in pure Pascal.
+License: GPL v3
+Version History:
+Mar. 13, 2012 - project started
+Sep. 18, 2012 - started to rewrite
+Nov. 11, 2012 - switched from sourceforge to google code
 }
 program bizarre;
 
