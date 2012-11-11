@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1345796170"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -vewnhi -l -Fi/home/joseph/Documents/Programming/Bizarre/lib/i386-linux -Fu/home/joseph/Documents/Programming/Bizarre/ -FU/home/joseph/Documents/Programming/Bizarre/lib/i386-linux/ bizarre.lpr"/>
+</CONFIG>
