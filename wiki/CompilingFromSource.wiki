@@ -10,7 +10,7 @@ If you're itching to get your hands on a new copy of Bizarre's source code then 
 
 Obviously you're going to need a few things before you can start compiling. Luckily the you only need two!
 
-  * [http://freepascal.org/ Free Pascal Compiler] or [http://lazarus.freepascal.org/ Lazarus] for compiling.
+  * [http://freepascal.org/ Free Pascal Compiler] or [http://lazarus.freepascal.org/ Lazarus IDE] for compiling.
   * [http://subversion.apache.org/ Subversion] for getting the source.
 = Getting the source =
 
