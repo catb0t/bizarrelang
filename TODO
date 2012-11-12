@@ -1,0 +1,17 @@
+Bizarre TODO file.
+This file will list everything I aim to add in version 1.0. Everything that has been added will be
+commented out with a "//"
+
+Text output
+Text input
+File I/O
+Variables and arrays
+Looping (for, while, etc...)
+Sockets
+Comments
+Dealing with time
+Math
+String functions
+Testing
+FTP
+-- more to be added
