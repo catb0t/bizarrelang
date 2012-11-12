@@ -16,7 +16,7 @@ uses
   {$IFDEF UNIX}{$IFDEF UseCThreads}
   cthreads,
   {$ENDIF}{$ENDIF}
-  Classes, sysutils
+  Classes, sysutils, interpreter, compiler
   { you can add units after this };
 
 {$R *.res}
