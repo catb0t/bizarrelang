@@ -1,11 +1,11 @@
 Bizarre is a fast and easy programming language.
 
 Usage:
-	bizarre command [arguments]
+    bizarre command [arguments]
 
 The commands are:
 
-  help          Use this to display the help file.
-  about         Use this to display the about file.
-  run           Use this to interpret a source file.
-  compile       Use this to compile a source file.
+    help          Use this to display the help file.
+    about         Use this to display the about file.
+    run           Use this to interpret a source file; this command requires a source code argument.
+    compile       Use this to compile a source file; this command requires a source code argument.
