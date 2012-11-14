@@ -1,8 +1,11 @@
 Bizarre TODO file.
 This file will list everything I aim to add in version 1.0. Everything that has been added will be
-commented out with a "//"
+commented out with a "//". Everything that is currently being worked on has a "#" in front of it.
 
-Text output
+Next version: Alpha 0.2
+Expected release of next version: at max two months
+
+#Text output
 Text input
 File I/O
 Variables and arrays
@@ -10,12 +13,13 @@ Looping (for, while, etc...)
 Sockets
 Comments
 Dealing with time
-Math
+Math Functions
 String functions
 Testing
 FTP
+Compiler
 -- more TBA
 
-!-- after version 1.0
+== after version 1.0
 A way of displaying graphics.
 -- more TBA
